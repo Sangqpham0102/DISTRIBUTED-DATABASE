@@ -1,4 +1,4 @@
-# BAI1 Image Processing Application
+# BAI 1 Image Processing Application
 
 This application is designed to demonstrate basic image processing techniques using C# and Windows Forms. The main functionalities include converting a color image to grayscale, histogram equalization, brightness adjustment, contrast stretching, thresholding, bitwise operations, and image inversion.
 
@@ -90,7 +90,8 @@ The main form (`FrmBai1`) contains the following key methods:
 - `andToolStripMenuItem_Click`: Performs a bitwise AND operation between two images.
 - `orToolStripMenuItem_Click`: Performs a bitwise OR operation between two images.
 - `xORToolStripMenuItem_Click`: Performs a bitwise XOR operation between two images.
-
+### Image
+![image](https://github.com/Sangqpham0102/WdForm/assets/119334855/a7f4aebb-3fd7-45cb-aa24-09f800409a4b)
 
 # BAI2 Image Histogram and Point Processing Application
 
@@ -122,9 +123,8 @@ The main form (`Histogram`) contains the following key methods:
 - `hisogramToolStripMenuItem_Click`: Calculates and displays the histogram of the image.
 - `clearToolStripMenuItem_Click`: Clears the loaded and processed images.
 - `pointProcessingToolStripMenuItem_Click`: Applies a brightness adjustment to the image.
-
-
-Dưới đây là mô tả ngắn gọn cho bài tập này để hiển thị trên README của GitHub:
+### Image:
+![image](https://github.com/Sangqpham0102/WdForm/assets/119334855/b4781afd-ab96-4fa2-9e94-62536a4a854b)
 
 # BAI 3 Image Brightness Adjustment Application
 
@@ -153,8 +153,8 @@ The main form (`Brightness`) contains the following key methods:
 - `btnClose_Click`: Handles closing the application.
 - `traBrightness_Scroll_1`: Adjusts the image brightness based on the trackbar value.
 - `AdjustBrightness`: Applies a color matrix to adjust the image brightness.
-
-
+### Image:
+![image](https://github.com/Sangqpham0102/WdForm/assets/119334855/9763b5af-c322-476a-86f1-be7c1c3d6e59)
 
 # BAI 4 Image Contrast Adjustment Application
 
@@ -182,11 +182,8 @@ The main form (`ImgContrast`) includes methods for:
 - `ThresholdValueChangEvH`: Handles contrast adjustment using a slider (`trcThr`).
 - `btnSave_Click`: Saves the adjusted image with the selected file format.
 - `ApplyFilter`: Applies contrast adjustment either as a preview (`preview = true`) or directly to the original image (`preview = false`).
-
-
-This C# application allows users to apply a color averaging filter to images with options for edge detection and color shifting. Here's a concise description for your GitHub README:
-
----
+### Image:
+![image](https://github.com/Sangqpham0102/WdForm/assets/119334855/bded0691-d586-42b6-a6a7-92de949f77ac)
 
 # BAI 5 Color Averaging Application
 
@@ -219,10 +216,8 @@ The main form (`ColorAverage`) includes methods for:
 - `NeighbourCountValueChangedEvH`: Handles changes in filter parameters (edge detection and color shifting).
 - `btnSave_Click`: Saves the modified image with the selected file format.
 - `ApplyFilter`: Applies the color averaging filter based on selected options (preview or directly to the original image).
-
-Here's a concise description of the DoG (Difference of Gaussians) image processing application for your GitHub README:
-
----
+### Image:
+![image](https://github.com/Sangqpham0102/WdForm/assets/119334855/a48f25e6-237e-4846-bb96-b29e67be773c)
 
 # BAI 6 Difference of Gaussians (DoG) Image Processing
 
@@ -260,8 +255,8 @@ The main form (`DoG`) includes methods for:
 - `NeighbourCountValueChangedEvH`: Handles changes in filter parameters (DoG type selection).
 - `btnSave_Click`: Saves the modified image with the selected file format.
 - `ApplyFilter`: Applies the selected DoG filter based on user options (preview or directly to the original image).
-
-
+### Image:
+![image](https://github.com/Sangqpham0102/WdForm/assets/119334855/562002f8-d302-453f-aa22-d870e103ed05)
 
 # BAI 7 Boundary Extraction Image Processing
 
@@ -298,11 +293,8 @@ The main form (`BoundaryEx`) includes methods for:
 - `btnSave_Click`: Saves the modified image with the selected file format.
 - `ApplyFilter`: Applies the selected boundary extraction filter based on user options (preview or directly to the original image).
 - `GetSE`: Retrieves the structuring element configuration based on user-defined settings.
-
-
-Your `ImgCartoonEe` application appears to be a Windows Forms application that applies a cartoon effect filter to images. Here’s a concise description for your GitHub README:
-
----
+### Iamge:
+![image](https://github.com/Sangqpham0102/WdForm/assets/119334855/b24ccea5-f536-4ac8-9950-8ba84d78d48b)
 
 # BAI 8 Cartoon Effect Image Processing
 
@@ -337,8 +329,8 @@ The main form (`ImgCartoonEe`) includes methods for:
 - `ApplyFilter`: Applies the cartoon effect filter based on user-selected options (preview or directly to the original image).
 - `btnSave_Click`: Saves the modified image with the selected file format.
 - Integration with `ExtBitmap` namespace for various smoothing filter types and the `CartoonEffectFilter` method.
-
-
+### Image:
+![image](https://github.com/Sangqpham0102/WdForm/assets/119334855/1082c795-ddaf-416a-a860-4fbfed2204af)
 
 ## License
 
