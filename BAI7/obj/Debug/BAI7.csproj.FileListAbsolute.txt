@@ -1,0 +1,10 @@
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI7\bin\Debug\BAI7.exe.config
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI7\bin\Debug\BAI7.exe
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI7\bin\Debug\BAI7.pdb
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI7\obj\Debug\BAI7.Properties.Resources.resources
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI7\obj\Debug\BAI7.csproj.GenerateResource.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI7\obj\Debug\BAI7.csproj.CoreCompileInputs.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI7\obj\Debug\BAI7.exe
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI7\obj\Debug\BAI7.pdb
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI7\obj\Debug\BAI7.csproj.AssemblyReference.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI7\obj\Debug\BAI7.BoundaryEx.resources

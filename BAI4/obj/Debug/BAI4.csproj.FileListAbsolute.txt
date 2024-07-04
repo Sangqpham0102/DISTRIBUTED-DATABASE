@@ -1,0 +1,10 @@
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI4\bin\Debug\BAI4.exe.config
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI4\bin\Debug\BAI4.exe
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI4\bin\Debug\BAI4.pdb
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI4\obj\Debug\BAI4.csproj.AssemblyReference.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI4\obj\Debug\BAI4.ImgContrast.resources
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI4\obj\Debug\BAI4.Properties.Resources.resources
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI4\obj\Debug\BAI4.csproj.GenerateResource.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI4\obj\Debug\BAI4.csproj.CoreCompileInputs.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI4\obj\Debug\BAI4.exe
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI4\obj\Debug\BAI4.pdb

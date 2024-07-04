@@ -1,0 +1,10 @@
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI5\bin\Debug\BAI5.exe.config
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI5\bin\Debug\BAI5.exe
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI5\bin\Debug\BAI5.pdb
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI5\obj\Debug\BAI5.Properties.Resources.resources
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI5\obj\Debug\BAI5.csproj.GenerateResource.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI5\obj\Debug\BAI5.csproj.CoreCompileInputs.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI5\obj\Debug\BAI5.exe
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI5\obj\Debug\BAI5.pdb
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI5\obj\Debug\BAI5.csproj.AssemblyReference.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI5\obj\Debug\BAI5.ColorAverage.resources

@@ -1,0 +1,10 @@
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI2\bin\Debug\BAI2.exe.config
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI2\bin\Debug\BAI2.exe
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI2\bin\Debug\BAI2.pdb
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI2\obj\Debug\BAI2.csproj.AssemblyReference.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI2\obj\Debug\BAI2.Properties.Resources.resources
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI2\obj\Debug\BAI2.csproj.GenerateResource.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI2\obj\Debug\BAI2.csproj.CoreCompileInputs.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI2\obj\Debug\BAI2.exe
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI2\obj\Debug\BAI2.pdb
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI2\obj\Debug\BAI2.Histogram.resources

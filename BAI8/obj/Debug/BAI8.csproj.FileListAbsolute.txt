@@ -1,0 +1,10 @@
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI8\bin\Debug\BAI8.exe.config
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI8\bin\Debug\BAI8.exe
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI8\bin\Debug\BAI8.pdb
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI8\obj\Debug\BAI8.csproj.AssemblyReference.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI8\obj\Debug\BAI8.Properties.Resources.resources
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI8\obj\Debug\BAI8.csproj.GenerateResource.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI8\obj\Debug\BAI8.csproj.CoreCompileInputs.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI8\obj\Debug\BAI8.exe
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI8\obj\Debug\BAI8.pdb
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI8\obj\Debug\BAI8.ImgCartoonEe.resources

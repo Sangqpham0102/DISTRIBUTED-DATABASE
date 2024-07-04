@@ -1,0 +1,10 @@
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI6\bin\Debug\BAI6.exe.config
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI6\bin\Debug\BAI6.exe
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI6\bin\Debug\BAI6.pdb
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI6\obj\Debug\BAI6.Properties.Resources.resources
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI6\obj\Debug\BAI6.csproj.GenerateResource.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI6\obj\Debug\BAI6.csproj.CoreCompileInputs.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI6\obj\Debug\BAI6.exe
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI6\obj\Debug\BAI6.pdb
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI6\obj\Debug\BAI6.csproj.AssemblyReference.cache
+D:\XuLyAnh_ThigiacMay\ThucHanh_XLA\BAI6\obj\Debug\BAI6.DoG.resources
